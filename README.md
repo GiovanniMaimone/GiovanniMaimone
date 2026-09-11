@@ -1,7 +1,5 @@
 ### Hello World!! 👾
-  
   ##
-   
 <div> 
 <a href="gmaimoney@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=%239315a3" target="_blank">
