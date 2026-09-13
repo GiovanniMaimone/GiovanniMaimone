@@ -14,7 +14,6 @@ jobs:
   generate:
     permissions:
       contents: write
-      read:user: read
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
